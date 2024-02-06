@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageTracking_ReferenceLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5484170913840550560
+  m_GuidHigh: 9217853610114075798
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4688767676970561261
+      m_GuidHigh: 9713720137873368247
+    m_SerializedTextureGuid:
+      m_GuidLow: 6060638961977938263
+      m_GuidHigh: 4219084562307387128
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Logo
+    m_Texture: {fileID: 2800000, guid: 78965157b706541bf88eaa450e338d3a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5602505921028117032
+      m_GuidHigh: 208412801924047543
+    m_SerializedTextureGuid:
+      m_GuidLow: 13010709891050971835
+      m_GuidHigh: 4773096897801800152
+    m_Size: {x: 0.104775, y: 0.104775}
+    m_SpecifySize: 1
+    m_Name: QRCode
+    m_Texture: {fileID: 2800000, guid: 53c122bb53b6b48fd8c9feef56723d42, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5177404094697082354
+      m_GuidHigh: 8524888151366800801
+    m_SerializedTextureGuid:
+      m_GuidLow: 7832983615289071319
+      m_GuidHigh: 12069383913118260344
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: dreamy
+    m_Texture: {fileID: 2800000, guid: e0c296d759186cb4785c3affb8107fa7, type: 3}
