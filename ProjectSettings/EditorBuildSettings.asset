@@ -5,9 +5,30 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 1
+    path: Assets/not very horror/scene/Menu_horror.unity
+    guid: 192d5cd7cc24f834687c22f5e4fd9a61
+  - enabled: 0
+    path: Assets/not very horror/scene/1SimpleImageTracking.unity
+    guid: dc08278f2dc866c4ba78f6fea07c3946
+  - enabled: 1
+    path: Assets/not very horror/scene/test recognitionSimpleImageTracking 1.unity
+    guid: 70fbd27273d1b034d97509c017fdede6
+  - enabled: 1
+    path: Assets/not very horror/scene/history.unity
+    guid: ea751a2c4c5357a4b8e446d31e755d21
+  - enabled: 1
+    path: Assets/not very horror/scene/bloody.unity
+    guid: 346bb6213e2bc4549a54873534b66b06
+  - enabled: 1
+    path: Assets/not very horror/scene/cemetery.unity
+    guid: f59add73003dbf64897b332c47212d9a
   - enabled: 0
     path: Assets/Library_XRCP_Gold/Wk2/Scenes/SimpleImageTracking.unity
     guid: 49d571260b5cc4758b0b1549d71463b0
+  - enabled: 1
+    path: Assets/not very horror/scene/2doorSimpleInteractable.unity
+    guid: b891116dd99134746a67b72c32e98236
   - enabled: 0
     path: Assets/Scenes/Menu/Menu.unity
     guid: 904110ab8cef14f7d96c56ca20774e5a
@@ -116,7 +137,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/PlaneDetection/TogglePlaneDetection.unity
     guid: eb4bbb3a5e81acc41a903b1c5f1c827b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Library_XRCP_Gold/Wk3/Scenes/Menu_XRCP.unity
     guid: 3399a11f4fe0a46069288509c0c64d60
   - enabled: 0
@@ -125,10 +146,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/PointClouds/AllPointCloudPoints.unity
     guid: a84b70115cd154cf59b84651a828ac60
-  - enabled: 1
+  - enabled: 0
     path: Assets/Library_XRCP_Gold/Wk3/Scenes/XRToolkitSample.unity
     guid: 4b4aed71f664f4025a07bed9b7912aae
-  - enabled: 1
+  - enabled: 0
     path: Assets/Library_XRCP_Gold/Wk3/Scenes/SimpleObject.unity
     guid: cd6e15deb7f7e4bce90c23874d5d935c
   - enabled: 0
@@ -140,7 +161,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/DebugMenu.unity
     guid: 15456b85ccc6645c8825f7a70ae23ff1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Library_XRCP_Gold/Wk3/Scenes/SimpleInteractable.unity
     guid: 2d351c671abf54de08554c85b0f18ee9
   - enabled: 0
